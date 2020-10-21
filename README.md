@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+This is Ekta Shrestha welcome to my github world.
 
 - 🔭 I’m currently working on github
 - 🌱 I’m currently learning git
